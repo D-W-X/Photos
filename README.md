@@ -1,2 +1,2 @@
 # Photos
-Dasktop pictures
+Desktop pictures
